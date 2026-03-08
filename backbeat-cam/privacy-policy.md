@@ -1,75 +1,74 @@
-# プライバシーポリシー - Backbeat Cam
+# Privacy Policy - Backbeat Cam
 
-最終更新日: 2026年2月22日
+Last updated: March 8, 2026
 
-## はじめに
+## Introduction
 
-Backbeat Cam（以下「本アプリ」）は、個人開発者が提供するタイムシフトカメラアプリです。本プライバシーポリシーは、本アプリにおけるデータの取り扱いについて説明します。
+Backbeat Cam ("the App") is a time-shift camera app provided by an independent developer. This Privacy Policy explains how data is handled within the App.
 
-## 収集するデータ
+## Data We Collect
 
-### カメラ・マイクデータ
-- 本アプリはカメラとマイクにアクセスしますが、撮影された映像・音声は**端末内にのみ保存**されます
-- 外部サーバーへの送信は一切行いません
+### Camera & Microphone Data
+- The App accesses the camera and microphone, but all captured video and audio is **stored only on your device**
+- No data is transmitted to external servers
 
-### 利用状況データ（匿名）
-本アプリはサービス改善のために以下の匿名データを収集します：
-- アプリの利用状況（起動回数、セッション時間、機能の利用頻度）
-- 端末情報（OS バージョン、端末モデル）
-- アプリのクラッシュ情報
+### Anonymous Usage Data
+The App collects the following anonymous data for service improvement:
+- App usage (launch count, session duration, feature usage frequency)
+- Device information (OS version, device model)
+- Crash reports
 
-これらのデータは個人を特定できない形で収集されます。
+This data is collected in a non-personally identifiable form.
 
-### 広告識別子
-本アプリは広告を表示するために、ユーザーの同意を得た上で広告識別子（IDFA / Advertising ID）を収集します。この情報はパーソナライズされた広告の表示に使用されます。
+### Advertising Identifier
+The App collects the advertising identifier (IDFA / Advertising ID) with user consent to display ads. This information is used to show personalized advertisements.
 
-### 購入情報
-本アプリ内課金（買い切り）の処理において、購入状態の管理に必要な匿名の識別情報が使用されます。クレジットカード番号等の決済情報は、Apple / Google のプラットフォームが管理しており、本アプリが直接取り扱うことはありません。
+### Purchase Information
+For in-app purchases (one-time), anonymous identification information necessary for managing purchase status is used. Payment details such as credit card numbers are managed by Apple / Google platforms and are not directly handled by the App.
 
-### 収集しないデータ
-- 氏名、メールアドレス等の個人情報
-- 位置情報
-- 連絡先
-- 撮影した映像・音声の内容
+### Data We Do Not Collect
+- Personal information such as name or email address
+- Location data
+- Contacts
+- Content of captured video or audio
 
-## 第三者サービス
+## Third-Party Services
 
-本アプリは以下の第三者サービスを利用しています：
+The App uses the following third-party services:
 
-- **Firebase Analytics**（Google LLC）— アプリの利用状況分析
-- **Firebase Crashlytics**（Google LLC）— クラッシュレポートとパフォーマンス改善
-- **Google AdMob**（Google LLC）— 広告の表示
-- **RevenueCat** — アプリ内課金の管理
+- **Firebase Analytics** (Google LLC) — App usage analytics
+- **Firebase Crashlytics** (Google LLC) — Crash reporting and performance improvement
+- **Google AdMob** (Google LLC) — Ad display
+- **RevenueCat** — In-app purchase management
 
-各サービスのプライバシーポリシー：
+Privacy policies for each service:
 - [Firebase](https://firebase.google.com/support/privacy)
 - [Google AdMob](https://policies.google.com/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy/)
 
-## データの保持と削除
+## Data Retention and Deletion
 
-- 保存されたクリップ（動画ファイル）は端末のローカルストレージにのみ保存されます
-- アプリを削除することで、アプリ内に保存されたすべてのデータが削除されます
-- Firebase Analytics / Crashlytics で収集された匿名データは、Google のデータ保持ポリシーに従い管理されます
+- Saved clips (video files) are stored only on the device's local storage
+- Uninstalling the App deletes all data stored within the App
+- Anonymous data collected by Firebase Analytics / Crashlytics is managed according to Google's data retention policies
 
-## 広告とトラッキング
+## Advertising and Tracking
 
-- 本アプリは Google AdMob を使用して広告を表示します
-- iOS では AppTrackingTransparency（ATT）を通じて、広告トラッキングの許可をユーザーに確認します
-- EEA（欧州経済領域）のユーザーに対しては、GDPR に基づく同意管理（Google UMP）を実施します
-- トラッキングを許可しない場合でも、パーソナライズされていない広告が表示されます
-- Pro 版（買い切り）を購入すると、すべての広告が除去されます
+- The App uses Google AdMob to display advertisements
+- On iOS, the App requests permission for ad tracking through AppTrackingTransparency (ATT)
+- Non-personalized ads are displayed if tracking is not permitted
+- Purchasing Pro (one-time purchase) removes all advertisements
 
-## お子様のプライバシー
+## Children's Privacy
 
-本アプリは13歳未満のお子様を対象としておらず、13歳未満のお子様から意図的に個人情報を収集することはありません。
+The App is not intended for children under 13 and does not knowingly collect personal information from children under 13.
 
-## プライバシーポリシーの変更
+## Changes to This Policy
 
-本ポリシーは予告なく変更される場合があります。変更があった場合は、このページを更新します。
+This policy may be updated without prior notice. Any changes will be reflected on this page.
 
-## お問い合わせ
+## Contact
 
-本ポリシーに関するご質問は、以下までご連絡ください。
+For questions about this policy, please contact:
 
-メール: tonde.gohan@gmail.com
+Email: tonde.gohan@gmail.com
