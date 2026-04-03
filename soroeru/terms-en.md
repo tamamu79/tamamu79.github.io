@@ -1,6 +1,6 @@
 # Terms of Use (EULA) - SOROERU
 
-Last updated: March 30, 2026
+Last updated: April 3, 2026
 
 ## Introduction
 
@@ -85,9 +85,27 @@ For information about how the App handles your data, please refer to our [Privac
 
 The developer reserves the right to modify these Terms at any time. Changes will be reflected by updating this page. Continued use of the App after changes constitutes acceptance of the revised Terms.
 
+## EU Consumer Rights
+
+If you are a consumer residing in the European Economic Area (EEA) or the United Kingdom, the following provisions apply to you:
+
+### Right of Withdrawal
+
+Under EU consumer protection law, you have a 14-day right of withdrawal for digital content purchases. However, by making a purchase and consenting to immediate delivery of digital content (such as SOROERU Pro subscription features), you acknowledge that you waive your right of withdrawal once the digital content has been fully delivered.
+
+### Right to Cancel Subscription
+
+You have the right to cancel your SOROERU Pro subscription at any time. Cancellation can be done through your device's subscription management settings (see "How to Cancel" above). After cancellation, you will retain access to Pro features until the end of the current billing period.
+
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of Japan.
+These Terms shall be governed by and construed in accordance with the laws of Japan. If you are a consumer residing in the European Economic Area (EEA) or the United Kingdom, nothing in these Terms affects your rights under mandatory consumer protection laws of your country of residence.
+
+## Dispute Resolution
+
+If you have a complaint or dispute regarding these Terms or the App, please contact us first at the email address provided below. We will endeavor to resolve your concern promptly.
+
+If you are a consumer residing in the European Union, you may also use the European Online Dispute Resolution (ODR) platform to resolve disputes: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)
 
 ## Contact
 

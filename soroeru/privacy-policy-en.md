@@ -1,10 +1,10 @@
 # Privacy Policy - SOROERU
 
-Last updated: February 27, 2026
+Last updated: April 3, 2026
 
 ## Introduction
 
-SOROERU ("the App") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how the App handles your data.
+SOROERU ("the App") is a photo editing app that unifies color tones across multiple photos, developed by an independent developer. This Privacy Policy explains how the App handles your data.
 
 ## Data We Access
 
@@ -33,6 +33,8 @@ The App uses Google AdMob to display ads to free users. AdMob may collect the fo
 
 On iOS, the AppTrackingTransparency (ATT) framework requests your permission before tracking for advertising purposes. You can use all app features even if you decline.
 
+For users in the European Economic Area (EEA) and UK, personalized ads are only shown with your explicit consent via the GDPR consent dialog.
+
 ### Purchase Information
 The App uses RevenueCat to manage subscriptions (SOROERU Pro). RevenueCat processes the following data:
 
@@ -53,34 +55,55 @@ The App does not collect any of the following:
 
 The App uses the following third-party services:
 
-- **Firebase Analytics** (Google LLC): Analysis of app usage
-- **Firebase Crashlytics** (Google LLC): Collection and analysis of crash reports
-- **Google AdMob** (Google LLC): Ad delivery (for free users)
-- **RevenueCat** (RevenueCat, Inc.): Subscription management
+| Service | Provider | Purpose | Privacy Policy |
+|---------|----------|---------|----------------|
+| Firebase Analytics | Google LLC | Anonymous usage analytics | [Link](https://firebase.google.com/support/privacy) |
+| Firebase Crashlytics | Google LLC | Crash reporting | [Link](https://firebase.google.com/support/privacy) |
+| Google AdMob | Google LLC | Advertising (for free users) | [Link](https://policies.google.com/privacy) |
+| RevenueCat | RevenueCat, Inc. | Subscription management | [Link](https://www.revenuecat.com/privacy/) |
 
-For information about how these services handle data, please refer to:
-- [Google's Privacy Policy](https://policies.google.com/privacy)
-- [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/)
+## Legal Basis for Processing (EEA/UK Users)
+
+If you are located in the EEA or UK, we process your data based on the following legal grounds under the GDPR:
+
+- **Consent**: Personalized advertising and tracking (you may withdraw consent at any time)
+- **Legitimate interest**: Anonymous analytics for service improvement, crash reporting
+- **Contract performance**: Processing purchase data to provide Pro features
+
+## Your Rights (EEA/UK Users)
+
+Under the GDPR, you have the right to:
+
+- **Access**: Request a copy of your data
+- **Rectification**: Request correction of inaccurate data
+- **Erasure**: Request deletion of your data
+- **Restriction**: Request restriction of processing
+- **Data portability**: Request your data in a portable format
+- **Object**: Object to processing based on legitimate interest
+- **Withdraw consent**: Withdraw previously given consent at any time
+
+Since the App stores photos locally and analytics data is anonymous, most data is already under your direct control. To exercise these rights or for any inquiries, please contact us at the email below.
 
 ## Withdrawing Consent
 
 - **Ad tracking**: On iOS, go to Settings > Privacy & Security > Tracking to disable tracking permission for this app at any time
 - **Analytics data**: On iOS, go to Settings > Privacy & Security > Analytics & Improvements to disable
 
-## Data Retention and Deletion
+## Data Retention
 
-- Photo data and preset settings are stored only on your device.
-- Deleting the App will completely remove all data from your device.
-- Analytics and diagnostics data collected by Firebase is stored on Google's servers and managed according to Google's data retention policies.
-- Purchase data retained by RevenueCat is managed according to RevenueCat's data retention policies.
+- **Local data** (photos, preset settings): Retained until you delete them or uninstall the App
+- **Analytics data**: Retained by Firebase for up to 14 months, then automatically deleted
+- **Crash data**: Retained by Firebase Crashlytics for 90 days
+- **Ad data**: Subject to Google's data retention policies
+- **Purchase data**: Subject to RevenueCat's data retention policies
 
 ## Children's Privacy
 
-The App does not intentionally collect personal information from children under 13.
+The App is not intended for children under 13, and we do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
-This policy may be updated without prior notice. Any changes will be reflected on this page.
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page.
 
 ## Contact
 
